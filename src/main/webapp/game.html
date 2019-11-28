@@ -16,7 +16,7 @@
 	  <div id="losses"></div>
 	  <div id="ties"></div>
 	  <div id="history"></div>
-	  
+	   <h1>IT Company </h1>
    </body>
 </html>
 
